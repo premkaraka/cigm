@@ -1,5 +1,5 @@
 <?php
-
+include 'populator.php';
 include 'webparts/topheader.php';
 ?>
 <?php
@@ -12,11 +12,11 @@ include 'webparts/slider.php';
 
         <div class="col-md-12">
             <div class="heading text-center">
-                <h2>Change Gospel Ministries</h2>
+                <h2>Change Gospel Ministries India</h2>
             </div>
 
-            <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-                mi vitae est. Mauris placerat eleifend leo.<a href="#"> <span class="accent">Continue Reading!</span> </a>
+            <p class="lead"><strong class="text-italic">"Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction and to keep 
+                    himself unspotted from the world". James - 1:27</strong><a href="#"> <span class="accent">Continue Reading!</span> </a>
             </p>
 
             <!-- *** BLOG HOMEPAGE ***
@@ -143,7 +143,7 @@ _________________________________________________________ -->
 <!-- *** GET IT ***
 _________________________________________________________ -->
 
-<div id="get-it">
+<!--<div id="get-it">
     <div class="container">
         <div class="col-md-12 col-sm-12">
             <h3 class="text-danger" >"Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction and to keep 
@@ -155,16 +155,20 @@ himself unspotted from the world". James - 1:27</h3>
 
 
 <!-- *** GET IT END *** -->
-<section class="bar background-white no-mb">
+<section class="bar background-pentagon no-mb">
     <div class="container" data-animate="fadeInUpBig">
         <div class="row">
             <div class="col-md-12">
+                              <?php
+                                $str = getDailyBread();
+                                $arr = explode('%%', $str);
+                                ?>
                 <div class="heading text-center">
                     <h2>Today's Word of Faith</h2>
                 </div>
 
-                <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-                    mi vitae est. Mauris placerat eleifend leo.</p>
+                <h2>  <p class="heading lead colour text-center text-success"><strong>"<?php echo($arr[0]); ?>" </strong></p></h2>
+                <h4><p class=" heading lead text-center text-info"><strong>Ref: <?php echo($arr[1]); ?></strong></p> </h4>
 
 
 
@@ -172,7 +176,7 @@ himself unspotted from the world". James - 1:27</h3>
                 <div class="see-more text-warning">
                     <h3><p><b>Do you want to be a part of our work ?</b></p> </h3>
 
-                    <a href="portfolio-4.html" class="btn btn-template-main">Donate to our work</a>
+                    <a href="donate.php" class="btn btn-template-main">Donate to our work</a>
                 </div>
 
             </div>
@@ -187,7 +191,7 @@ himself unspotted from the world". James - 1:27</h3>
 
 
 
-<section class="bar background-pentagon no-mb">
+<section class="bar background-white no-mb">
     <div class="container">
 
         <section>
@@ -195,7 +199,7 @@ himself unspotted from the world". James - 1:27</h3>
             <div class="row">
                 <div class="col-md-12">
                     <div class="heading">
-                        <h2>Portfolio</h2>
+                        <h2>Our Work</h2>
                     </div>
 
                     <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean

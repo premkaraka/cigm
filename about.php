@@ -28,19 +28,12 @@ include 'webparts/topheader.php';
 
 
         <section>
-            <div class="project owl-carousel">
-                <div class="item">
-                    <img src="img/main-slider1.jpg" alt="" class="img-responsive">
+            <div >
+                <div >
+                    <img src="img/medical.jpg" alt="">
                 </div>
-                <div class="item">
-                    <img class="img-responsive" src="img/main-slider2.jpg" alt="">
-                </div>
-                <div class="item">
-                    <img class="img-responsive" src="img/main-slider3.jpg" alt="">
-                </div>
-                <div class="item">
-                    <img class="img-responsive" src="img/main-slider4.jpg" alt="">
-                </div>
+                
+               
             </div>
             <!-- /.project owl-slider -->
         </section>
@@ -93,7 +86,7 @@ include 'webparts/topheader.php';
                     <p class="text-center">
                         <img src="img/detailsquare.jpg" class="img-rounded img-responsive" alt="">
                     </p>
-                    <p class="text-center">rounded</p>
+                    <p class="text-center">Founder of CGM</p>
                 </div>
             </div>
         </section>
@@ -110,51 +103,6 @@ include 'webparts/topheader.php';
 
 
 
-        <section class="bar background-pentagon no-mb">
-            <div class="container">
-                <div class="row showcase">
-                    <div class="col-md-3 col-sm-6">
-                        <div class="item">
-                            <div class="icon"><i class="fa fa-align-justify"></i>
-                            </div>
-                            <h4><span class="counter">580</span><br>
-
-		Websites</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="item">
-                            <div class="icon"><i class="fa fa-users"></i>
-                            </div>
-                            <h4><span class="counter">100</span><br>
-
-		Satisfied Clients</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="item">
-                            <div class="icon"><i class="fa fa-copy"></i>
-                            </div>
-                            <h4><span class="counter">320</span><br>
-
-		Projects</h4>
-                        </div>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <div class="item">
-                            <div class="icon"><i class="fa fa-font"></i>
-                            </div>
-                            <h4><span class="counter">923</span><br> 
-
-		Magazines and Brochures</h4>
-                        </div>
-                    </div>
-                </div>
-                <!-- /.row -->
-            </div>
-            <!-- /.container -->
-        </section>
-        <!-- /.bar -->
 
 
 

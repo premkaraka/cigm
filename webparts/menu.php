@@ -41,33 +41,33 @@ _________________________________________________________ -->
                             </li>
                             <li><a href="children.php">Children Ministry</a>
                             </li>
-                            <li><a href="contact3.html">Homeless Ministry</a>
+                            <li><a href="homeless.php">Homeless Ministry</a>
                             </li>
-                             <li><a href="contact3.html">HIV/AIDS Ministry</a>
+                             <li><a href="hivmin.php">HIV/AIDS Ministry</a>
                             </li>
-                             <li><a href="contact3.html">Feeding Ministry</a>
+                             <li><a href="feeding.php">Feeding Ministry</a>
                             </li>
-                             <li><a href="contact3.html">Blankets and Carpets Ministry</a>
+                             <li><a href="blankets.php">Blankets and Carpets Ministry</a>
                             </li> 
-                            <li><a href="contact3.html">Rice for widows/Slum areas</a>
+                            <li><a href="rice.php">Rice for widows/Slum areas</a>
                             </li> 
-                            <li><a href="contact3.html">Tribal Ministry</a>
+                            <li><a href="tribal.php">Tribal Ministry</a>
                             </li>
-                            <li><a href="contact3.html">Youth Ministry</a>
+                            <li><a href="youth.php">Youth Ministry</a>
                             </li>
 
                         </ul>
                     </li>
                      <li>
-                        <a href="about1.php" class="">Gallery</a>
+                        <a href="gallery.php" class="">Gallery</a>
 
                     </li>
                      <li>
-                        <a href="#" class="">Donations</a>
+                        <a href="donations.php" class="">Donations</a>
 
                     </li>
                      <li>
-                        <a href="#" class="">Get Involved</a>
+                        <a href="involve.php" class="">Get Involved</a>
 
                     </li>
                     <li>
