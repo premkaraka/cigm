@@ -26,8 +26,13 @@ include'webparts/head.php';
         if(isset($_GET['s'])){
         $status=$_GET['s'];
         if($status==1){
-            echo('<tr><td colspan=2>incorrect Password Admin, Try Again!</td></tr>');
-        }}
+            echo('<tr><td colspan=2>Incorrect Password Admin, Try Again!</td></tr>');
+        }
+        if($status==2){
+             echo('<tr><td colspan=2>Session Expired. Login Again.</td></tr>');
+        }
+        
+        }
         ?>
                 
                 
