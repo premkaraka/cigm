@@ -1,3 +1,4 @@
+
 <?php
 include 'db.php';
 $vid=$_GET['id'];

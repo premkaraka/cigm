@@ -1,4 +1,7 @@
 <?php
+include 'ss.php';
+?>
+<?php
 include 'db.php';
 
 $subcatname=$_POST['subcatname'];

@@ -1,3 +1,6 @@
+<?php
+include 'ss.php';
+?>
 <html>
 <?php
 include'webparts/head.php';

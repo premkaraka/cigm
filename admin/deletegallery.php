@@ -1,4 +1,7 @@
 <?php
+include 'ss.php';
+?>
+<?php
 include 'db.php';
 $subcatid=$_GET['subcatid'];
 $catid=$_GET['catid'];

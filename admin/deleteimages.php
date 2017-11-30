@@ -1,4 +1,8 @@
 <?php
+include 'ss.php';
+?>
+
+<?php
 include 'db.php';
 $imgid=$_GET['id'];
 $subcatid=$_GET['subcatid'];

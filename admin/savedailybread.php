@@ -1,3 +1,6 @@
+<?php
+include 'ss.php';
+?>
  <?php
 include'db.php';
 $verse = $_POST['verse'];
