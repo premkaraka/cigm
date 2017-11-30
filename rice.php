@@ -56,14 +56,14 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h2>Rice for Widows/Slum Areas</h2>
                     </div>
-                    <p class="lead text-justify text-primary">
-                        <strong>
+                    <p class="lead">
+                      
                             Shalom my Dear friends in Christ, we are very happy to share that in the year 2015 we  prayerfully distributed rice packets to slum destitutes,
                             due to their fragile conditions they don't have no proper employment and they are short of food. It's very hard for the kids and elders to spend
                             the days with hunger.They don't even have proper shelters to stay and besides these they are facing lot of problems like lack of nutrition,
                             lack proper medical assistence.Please pray for them, they are very happy to receive rice bags through our ministry.Glory to God alone.Special
                             thanks to our team members and all our family.we believe we all are one family in christ.Amen.
-                        </strong> </p>
+                      </p>
                         <p class="lead text-center text-danger">
                             <strong>
                                 "Rebuilding the lives of the destituteand dying people of the streets".

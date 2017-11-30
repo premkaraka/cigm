@@ -124,31 +124,31 @@ include 'webparts/topheader.php';
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <label for="name">Name</label>
-                                    <input type="text" class="form-control" id="name" required>
+                                    <input type="text" class="form-control" name="name" id="name" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <label for="phone">Phone</label>
-                                    <input type="text" class="form-control" id="phone" required>
+                                    <input type="text" class="form-control" name="phone" id="phone" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <label for="email">Email</label>
-                                    <input type="email" class="form-control" id="mail" required>
+                                    <input type="email" class="form-control" name="mail" id="mail" required>
                                 </div>
                             </div>
                             <div class="col-sm-6">
                                 <div class="form-group">
                                     <label for="subject">Subject</label>
-                                    <input type="text" class="form-control" id="subject" required>
+                                    <input type="text" class="form-control" name="subject" id="subject" required>
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <div class="form-group">
                                     <label for="message">Message</label>
-                                    <textarea id="message" class="form-control" required></textarea>
+                                    <textarea name="message" id="message" class="form-control" required></textarea>
                                 </div>
                             </div>
 

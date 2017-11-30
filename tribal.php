@@ -56,10 +56,10 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h2>Tribal Ministry</h2>
                     </div>
-                    <p class="lead text-justify text-primary">
-                        <strong>We and our co-workers will travel to agency remote tribal areas to the share the Love of Christ.They  are fully rock labourers,idol worshipers.
+                    <p class="lead">
+                       We and our co-workers will travel to agency remote tribal areas to the share the Love of Christ.They  are fully rock labourers,idol worshipers.
                             There is no proper transport connectivity.So, we have to walk around 15km per day to preach the christ.Our CGM India team work with 12 sister 
-                            churches in Tribal and Operational areas.</strong></p>
+                            churches in Tribal and Operational areas.</p>
                 </div>
             </div>
 

@@ -52,29 +52,29 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h3>Prayer:</h3>
                     </div>
-                    <p class="lead text-center"> <strong> Pray for those who are engaged in the great task of spreading the good news of the gospel of the Lord Jesus Christ and care 
-                            the destitute orphans,widows and oldaged people throughout India. </strong>
+                    <p class="lead"> Pray for those who are engaged in the great task of spreading the good news of the gospel of the Lord Jesus Christ and care 
+                        the destitute orphans,widows and oldaged people throughout India. 
 
                     </p>
                     <div class="heading">
                         <h3>Tell about us:</h3>
                     </div>
-                    <p class="lead text-widget"> <strong> one of the ways you can help our mission is to spread the news about CGM India to your friends,relatives,your Church Pastor
-                            your church friends.You can get involved with CGM through your church to support a specific ministry of CGM. </strong>
+                    <p class="lead ">  one of the ways you can help our mission is to spread the news about CGM India to your friends,relatives,your Church Pastor
+                        your church friends.You can get involved with CGM through your church to support a specific ministry of CGM. 
 
                     </p>
-                    <p class="lead text-widget"> <strong> Share the vision of CGM to others and be a part of CGM.By doing so you will help us to reach the unreached.You can help us by introducing
-                            CGM work to your church or your friends. You help a under previlaged child comeup in life. </strong>
+                    <p class="lead text-widget">Share the vision of CGM to others and be a part of CGM.By doing so you will help us to reach the unreached.You can help us by introducing
+                        CGM work to your church or your friends. You help a under previlaged child comeup in life.
 
                     </p>
 
                     <div class="heading">
                         <h3>Invite us :</h3>
                     </div>
-                    <p class="lead text-widget"> <strong> CGM's executive director will be happy to come and share their vision and burdens upon your invitation.Evangelist
-                            Satish Babuu is an engaging speaker,who has travelled worldwide and will be available at your request to your church to share the vision of CGM.. </strong>
-                    <p class="lead text-widget"> <strong>Being a part of CGM, you will see God at work in miraculous ways in a daily basis.CGM is faith based ministry which is entirely depends on HIS
-                            grace more than anything else. </strong>
+                    <p class="lead "> CGM's executive director will be happy to come and share their vision and burdens upon your invitation.Evangelist
+                        Satish Babuu is an engaging speaker,who has travelled worldwide and will be available at your request to your church to share the vision of CGM.. 
+                    <p class="lead "> Being a part of CGM, you will see God at work in miraculous ways in a daily basis.CGM is faith based ministry which is entirely depends on HIS
+                        grace more than anything else.
 
                     </p>
 
@@ -97,9 +97,9 @@ include 'webparts/topheader.php';
 
                     <div class="row">
                         <div class="col-md-12">
-                            <div class="text-center text-widget">
-                                <h3>we are heartily inviting you to India.Shalom, please pray for our ministry in India and please visit our ministry and serve the lords work.</h3>
-                            </div>
+
+                            <p class="lead text-center text-primary"><strong> we are heartily inviting you to India.Shalom, please pray for our ministry in India and please visit our ministry and serve the lords work.</strong></p>
+
                         </div>
                     </div>
 

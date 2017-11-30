@@ -56,8 +56,8 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h3>Ministry to the HIV/AIDS Infected</h3>
                     </div>
-                    <p class="lead text-justify text-primary">
-                        <strong>
+                    <p class="lead">
+                       
                             Our Organization is functioning with objective of health development and well being of children and elders infected and
                             effected with HIV and AIDS in India.The Main focus of the organisation is to provide institutional care homes for the children abandoned and 
                             orphaned by HIV/AIDS.
@@ -65,7 +65,7 @@ include 'webparts/topheader.php';
                             nearly 70,0000 children living with HIV/AIDS.70% of the children lose their parents to this deadly disease, these children not only have to live without love and 
                             support of parents but they have to find their own way through uncertainity.There may not be a cure for AIDS yet, but we still have the power to help
                             rewrite the future of thousands of children in India.Please pray for our ministry and we nned your prayers and Medical support.
-                        </strong>
+                      
                     </p>
                 </div>
             </div>

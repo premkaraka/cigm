@@ -56,11 +56,11 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h2>Leprosy Ministry</h2>
                     </div>
-                    <p class="lead text-justify text-primary"><strong>My Dear friends thank you very much for your prayers. Here we can conduct a healing worship at leprosy people village, they are very 
+                    <p class="lead">My Dear friends thank you very much for your prayers. Here we can conduct a healing worship at leprosy people village, they are very 
                         very happy to know Jesus christ and His healinfs and they believe to know he is only one our Lord and Saviour. They believe and hope
                         to get a bright future soon through his grace, Amen. After prayers we arranged a cake and snacks to Leprosy people. They are very happy to eat.
                         Thank you so Much for your prayers. They Need medicines, please  pray and please share the details about ministry among your friends so that we
-                        all together join our hands in our Lordwork to ripe for the harvest.</strong></p>
+                        all together join our hands in our Lordwork to ripe for the harvest.</p>
                 </div>
             </div>
 

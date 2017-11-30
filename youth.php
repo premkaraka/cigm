@@ -7,14 +7,14 @@ include 'webparts/topheader.php';
     <div class="container">
         <div class="row">
             <div class="col-md-7">
-                <h1>Han Solo</h1>
+                <h1>Youth Ministry</h1>
             </div>
             <div class="col-md-5">
                 <ul class="breadcrumb">
                     <li><a href="index.php">Home</a>
                     </li>
                    
-                    <li>About Us</li>
+                    <li>Youth Ministry</li>
                 </ul>
 
             </div>
@@ -54,7 +54,7 @@ include 'webparts/topheader.php';
             <div class="row">
                 <div class="col-md-12">
                     <div class="heading">
-                        <h2>About Han</h2>
+                        <h2>Youth Ministry</h2>
                     </div>
                     <p class="lead">Do greatest at in learning steepest. Breakfast extremity suffering one who all otherwise suspected. He at no nothing forbade up moments. Wholly uneasy at missed be of pretty whence. John way sir high than law who week. Surrounded
                         prosperous introduced it if is up dispatched. Improved so strictly produced answered elegance is.</p>

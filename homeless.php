@@ -56,8 +56,8 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h2>Ministry to the Homeless</h2>
                     </div>
-                    <p class="lead text-justify text-primary">
-                        <strong>
+                    <p class="lead">
+                     
 
                             Our Ministry Cares the Homeless people , They are old aged peoples, they have don't have  children to take care of them, 
                             they usually sleep on  road side, Under Bridges, in front of shops, it is very horrible to see them in such situations,they are suffering a lot of problems in raining and
@@ -69,16 +69,16 @@ include 'webparts/topheader.php';
                             continouly pray for us and support our work in India in any means possible. We Strongly Believe that all things are Possible only through Christ.
                             Amen. Mark 9:2.
 
-                        </strong>
+               
 
                     </p>
-                    <p class="lead text-justify text-primary">
-                        <strong>
+                    <p class="lead">
+                      
                             In the year 2014 we started the homeless people  care Ministry, it is named as "Elders Homeless People Oldage
                             Home". It was inagurated by Sub Inspector of Police ( Andhra Pradesh State Police ), we are very happy to help these homeless elders. These elders
                             are very happy to take shelter in our care home, we are providing them food,clothing ,Blankets and necessary medical assistence. We can do all these
                             things only by Gods Grace.Please pray for our ministry and we need your kind support to continue this work further.
-                        </strong>
+               
                     </p>
                 </div>
             </div>

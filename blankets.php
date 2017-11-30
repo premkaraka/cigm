@@ -56,11 +56,11 @@ include 'webparts/topheader.php';
                     <div class="heading">
                         <h2>Blankets and Carpets Ministry</h2>
                     </div>
-                    <p class="lead text-justify text-primary">
-                        <strong>
+                    <p class="lead">
+                     
                             CGM Ministry volunteers visit the streets during midnight in our operational area yeleswaram. There are number of homeless people taking shelter
                             at bridges and in front of shops,we provide them bread and blankets as far as we can afford. We share the Good News of our Lord among them.
-                        </strong></p>
+                        </p>
                     <p class="lead text-center text-success"><strong>
                             Thank you so much for spending your time in visiting our ministry.We need your prayers and ecnouragment.God bless you all
                         </strong>
