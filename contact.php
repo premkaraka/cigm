@@ -1,4 +1,5 @@
 <?php
+$title = 'Contact Us';
 include 'webparts/topheader.php';
 ?>
 <div id="heading-breadcrumbs">
@@ -21,7 +22,16 @@ include 'webparts/topheader.php';
 
 <div id="content">
     <div class="container" id="contact">
+        <section>
+            <div >
+                <div >
+                    <img src="img/banners/contactus.jpg" alt="">
+                </div>
 
+
+            </div>
+            <!-- /.project owl-slider -->
+        </section>
         <section>
 
             <div class="row">
@@ -107,16 +117,16 @@ include 'webparts/topheader.php';
                         <h2>Write to Us</h2>
                     </div>
                 </div>
-                  <?php
-                            if (isset($_GET['s'])) {
-                                $status = $_GET['s'];
-                                if ($status == 1) {
-                                    echo('Message Sent Sucessfully');
-                                } if ($status == 2) {
-                                    echo('Enter Required Fields');
-                                }
-                            }
-                            ?>
+                <?php
+                if (isset($_GET['s'])) {
+                    $status = $_GET['s'];
+                    if ($status == 1) {
+                        echo('Message Sent Sucessfully');
+                    } if ($status == 2) {
+                        echo('Enter Required Fields');
+                    }
+                }
+                ?>
 
                 <div class="col-md-8 col-md-offset-2">
                     <form action="savemail.php" method="post" id="enq">

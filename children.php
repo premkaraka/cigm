@@ -1,4 +1,5 @@
 <?php
+$title = 'Children Ministry';
 include 'webparts/topheader.php';
 ?>
 
@@ -30,7 +31,7 @@ include 'webparts/topheader.php';
         <section>
             <div >
                 <div >
-                    <img src="img/medical.jpg" alt="">
+                    <img src="img/banners/children.jpg" alt="">
                 </div>
 
 
