@@ -185,7 +185,7 @@ include 'webparts/topheader.php';
 <!-- /#content -->
 
 <div id="map">
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3814.713297534056!2d81.7759071148715!3d17.037727488289065!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a37a6acd72fd5d7%3A0xa211c530d934d28e!2sUnnamed+Road%2C+Katheru%2C+Rajahmundry%2C+Andhra+Pradesh+533105!5e0!3m2!1sen!2sin!4v1512361741533" width="1349" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 
@@ -225,14 +225,6 @@ include 'webparts/footer.php';
 
 
 
-<!-- gmaps -->
-
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-
-<script src="js/gmaps.js"></script>
-<script src="js/gmaps.init.js"></script>
-
-<!-- gmaps end -->
 
 
 
