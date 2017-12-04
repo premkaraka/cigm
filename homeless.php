@@ -58,28 +58,28 @@ include 'webparts/topheader.php';
                         <h2>Ministry to the Homeless</h2>
                     </div>
                     <p class="lead">
-                     
 
-                            Our Ministry Cares the Homeless people , They are old aged peoples, they have don't have  children to take care of them, 
-                            they usually sleep on  road side, Under Bridges, in front of shops, it is very horrible to see them in such situations,they are suffering a lot of problems in raining and
-                            of cold breeze, thye need medical assistence,clothing , shelter and food, They feed themselevs by begging , most of the days they starve without food
-                            they don't have even proper sleep,their economic standards are below povertyy line. we visit these people during mid night ,
-                            we will share the love of Christ by providing them breads and blankets. We as a team decided to provide them food and shelter atleast during 
-                            rainy season. But their need is much more beyond that, they are in need of all sorts of help  apart from food and shelter, like clothes and medical
-                            assistence. Which is very expensive for us to meet as we are not financial well equiped and but still we are Rich in Christ Love.We request you to
-                            continouly pray for us and support our work in India in any means possible. We Strongly Believe that all things are Possible only through Christ.
-                            Amen. Mark 9:2.
 
-               
+                        Our Ministry Cares the Homeless people , They are old aged peoples, they have don't have  children to take care of them, 
+                        they usually sleep on  road side, Under Bridges, in front of shops, it is very horrible to see them in such situations,they are suffering a lot of problems in raining and
+                        of cold breeze, thye need medical assistence,clothing , shelter and food, They feed themselevs by begging , most of the days they starve without food
+                        they don't have even proper sleep,their economic standards are below povertyy line. we visit these people during mid night ,
+                        we will share the love of Christ by providing them breads and blankets. We as a team decided to provide them food and shelter atleast during 
+                        rainy season. But their need is much more beyond that, they are in need of all sorts of help  apart from food and shelter, like clothes and medical
+                        assistence. Which is very expensive for us to meet as we are not financial well equiped and but still we are Rich in Christ Love.We request you to
+                        continouly pray for us and support our work in India in any means possible. We Strongly Believe that all things are Possible only through Christ.
+                        Amen. Mark 9:2.
+
+
 
                     </p>
                     <p class="lead">
-                      
-                            In the year 2014 we started the homeless people  care Ministry, it is named as "Elders Homeless People Oldage
-                            Home". It was inagurated by Sub Inspector of Police ( Andhra Pradesh State Police ), we are very happy to help these homeless elders. These elders
-                            are very happy to take shelter in our care home, we are providing them food,clothing ,Blankets and necessary medical assistence. We can do all these
-                            things only by Gods Grace.Please pray for our ministry and we need your kind support to continue this work further.
-               
+
+                        In the year 2014 we started the homeless people  care Ministry, it is named as "Elders Homeless People Oldage
+                        Home". It was inagurated by Sub Inspector of Police ( Andhra Pradesh State Police ), we are very happy to help these homeless elders. These elders
+                        are very happy to take shelter in our care home, we are providing them food,clothing ,Blankets and necessary medical assistence. We can do all these
+                        things only by Gods Grace.Please pray for our ministry and we need your kind support to continue this work further.
+
                     </p>
                 </div>
             </div>
@@ -99,188 +99,10 @@ include 'webparts/topheader.php';
             </div>
 
             <div class="row portfolio">
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-1.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-2.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-3.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-4.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-5.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-6.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-7.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-9.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-8.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
+                <?php
+                $subcatid = 3;
+                include('webparts/ministryPortfolio.php');
+                ?>
             </div>
 
 
