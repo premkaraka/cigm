@@ -3,7 +3,7 @@
 
 <!-- #### JAVASCRIPT FILES ### -->
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
 <script>
     window.jQuery || document.write('<script src="js/jquery-1.11.0.min.js"><\/script>')
 </script>
@@ -19,8 +19,15 @@
 
 <!-- owl carousel -->
 <script src="js/owl.carousel.min.js"></script>
-
-
+<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" language="javascript">
+    $("a[rel^='prettyPhoto']").prettyPhoto(
+            {theme: 'facebook',
+                slideshow: 5000,
+                autoplay_slideshow: true,
+                social_tools: ''
+            });
+</script>
 
 </body>
 

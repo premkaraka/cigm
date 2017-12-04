@@ -14,9 +14,8 @@ _________________________________________________________ -->
                             <p>
                                 <img src="img/logo.png" alt="">
                             </p>
-                            <h1>Multipurpose responsive theme</h1>
-                            <p>Business. Corporate. Agency.
-                                <br />Portfolio. Blog. E-commerce.</p>
+                            <h1>Spreading Gospel to rural areas</h1>
+                            <p>Through Ministries of tribal and youth</p>
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="img/template-homepage.png" alt="">
@@ -31,12 +30,12 @@ _________________________________________________________ -->
                         </div>
 
                         <div class="col-sm-5">
-                            <h2>46 HTML pages full of features</h2>
+                            <h2>Feeding the Homeless</h2>
                             <ul class="list-style-none">
-                                <li>Sliders and carousels</li>
-                                <li>4 Header variations</li>
-                                <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-                                <li>+ 11 extra pages showing template features</li>
+                                <li>By Providing Food,</li>
+                                <li>Blankets</li>
+                                <li>and Carpets</li>
+                               
                             </ul>
                         </div>
 
@@ -45,12 +44,11 @@ _________________________________________________________ -->
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1>Design</h1>
+                            <h1>Ministering Widows </h1>
                             <ul class="list-style-none">
-                                <li>Clean and elegant design</li>
-                                <li>Full width and boxed mode</li>
-                                <li>Easily readable Roboto font and awesome icons</li>
-                                <li>7 preprepared colour variations</li>
+                                <li>Through Word of God</li>
+                                <li>and providing basic necessities</li>
+                               
                             </ul>
                         </div>
                         <div class="col-sm-7">
@@ -64,10 +62,10 @@ _________________________________________________________ -->
                             <img class="img-responsive" src="img/template-easy-code.png" alt="">
                         </div>
                         <div class="col-sm-5">
-                            <h1>Easy to customize</h1>
+                            <h1>Encouraging Youth</h1>
                             <ul class="list-style-none">
-                                <li>7 preprepared colour variations.</li>
-                                <li>Easily to change fonts</li>
+                                <li>By Providing Books</li>
+                                <li>and ministering about God</li>
                             </ul>
                         </div>
                     </div>

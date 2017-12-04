@@ -3,7 +3,6 @@ include 'populator.php';
 include 'webparts/topheader.php';
 ?>
 <?php
-
 include 'webparts/slider.php';
 ?>
 
@@ -32,16 +31,14 @@ _________________________________________________________ -->
                             <div class="bg"></div>
                             <div class="text">
                                 <p class="buttons">
-                                    <a href="blog-post.html" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                    <a href="children.php" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
                                 </p>
                             </div>
                         </div>
                         <div class="content">
                             <h4><a href="blog-post.html">Children Ministry</a></h4>
-                            <p class="author-category">By <a href="#">John Snow</a> in <a href="blog.html">Webdesign</a>
-                            </p>
-                            <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-                            <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Continue reading</a>
+                            <p class="intro">India is home to 440 million children out of which 136 million live in poverty. It also has 2 million children are facing the death before their first birthday due to lack of Immunizations and medical facilities.</p>
+                            <p class="read-more"><a href="children.php" class="btn btn-template-main">Continue reading</a>
                             </p>
                         </div>
                     </div>
@@ -58,16 +55,14 @@ _________________________________________________________ -->
                             <div class="bg"></div>
                             <div class="text">
                                 <p class="buttons">
-                                    <a href="blog-post.html" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                    <a href="homeless.php" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
                                 </p>
                             </div>
                         </div>
                         <div class="content">
-                            <h4><a href="blog-post.html">Homless Ministry</a></h4>
-                            <p class="author-category">By <a href="#">John Snow</a> in <a href="blog.html">Webdesign</a>
-                            </p>
-                            <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-                            <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Continue reading</a>
+                            <h4><a href="homeless.php">Homless Ministry</a></h4>
+                            <p class="intro">Our Ministry Cares the Homeless people , They are old aged peoples, they have don't have children to take care of them, they usually sleep on road side, Under Bridges, in front of shops, it is very horrible to see them in such situations</p>
+                            <p class="read-more"><a href="homeless.php" class="btn btn-template-main">Continue reading</a>
                             </p>
                         </div>
                     </div>
@@ -84,16 +79,15 @@ _________________________________________________________ -->
                             <div class="bg"></div>
                             <div class="text">
                                 <p class="buttons">
-                                    <a href="blog-post.html" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                    <a href="tribal.php" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
                                 </p>
                             </div>
                         </div>
                         <div class="content">
-                            <h4><a href="blog-post.html">Tribal Ministry</a></h4>
-                            <p class="author-category">By <a href="#">John Snow</a> in <a href="blog.html">Webdesign</a>
-                            </p>
-                            <p class="intro">Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-                            <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Continue reading</a>
+                            <h4><a href="tribal.php">Tribal Ministry</a></h4>
+                           
+                            <p class="intro">We and our co-workers will travel to agency remote tribal areas to the share the Love of Christ.They are fully rock labourers,idol worshipers. There is no proper transport connectivity.So, we have to walk around 15km per day</p>
+                            <p class="read-more"><a href="tribal.php" class="btn btn-template-main">Continue reading</a>
                             </p>
                         </div>
                     </div>
@@ -110,16 +104,15 @@ _________________________________________________________ -->
                             <div class="bg"></div>
                             <div class="text">
                                 <p class="buttons">
-                                    <a href="blog-post.html" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                    <a href="youth.php" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
                                 </p>
                             </div>
                         </div>
                         <div class="content">
-                            <h4><a href="blog-post.html">Youth Ministry</a></h4>
-                            <p class="author-category">By <a href="#">John Snow</a> in <a href="blog.html">Webdesign</a>
-                            </p>
-                            <p class="intro">Am terminated it excellence invitation projection as. She graceful shy believed distance use nay. Lively is people.</p>
-                            <p class="read-more"><a href="blog-post.html" class="btn btn-template-main">Continue reading</a>
+                            <h4><a href="youth.php">Youth Ministry</a></h4>
+                            
+                            <p class="intro">Do greatest at in learning steepest. Breakfast extremity suffering one who all otherwise suspected. He at no nothing forbade up moments. Wholly uneasy at missed be of pretty whence. John way sir high than law who week.</p>
+                            <p class="read-more"><a href="youth.php" class="btn btn-template-main">Continue reading</a>
                             </p>
                         </div>
                     </div>
@@ -159,10 +152,10 @@ himself unspotted from the world". James - 1:27</h3>
     <div class="container" data-animate="fadeInUpBig">
         <div class="row">
             <div class="col-md-12">
-                              <?php
-                                $str = getDailyBread();
-                                $arr = explode('%%', $str);
-                                ?>
+                <?php
+                $str = getDailyBread();
+                $arr = explode('%%', $str);
+                ?>
                 <div class="heading text-center">
                     <h2>Today's Word of Faith</h2>
                 </div>
@@ -202,193 +195,37 @@ himself unspotted from the world". James - 1:27</h3>
                         <h2>Our Work</h2>
                     </div>
 
-                    <p class="lead">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
-                        ultricies mi vitae est. Mauris placerat eleifend leo.</p>
                 </div>
             </div>
 
             <div class="row portfolio">
+                <?php
+                $slctCmd = "select c.catid, c.catName, g.imgname from category c join galimages g on c.catid=g.catid where c.delbit=0 group by c.catid order by c.catname";
+                $rs = mysqli_query($con, $slctCmd);
+                while ($row = mysqli_fetch_object($rs)) {
+                    ?>
+                    <div class="col-sm-4">
+                        <div class="box-image">
+                            <div class="image">
+                                <img src="admin/images/gallery/<?php echo($row->imgname); ?>" alt="<?php echo($row->catName); ?>" class="img-responsive">
+                            </div>
+                            <div class="bg"></div>
+                            <div class="name">
+                                <h3><a href="gallery.php?c=<?php echo($row->catid); ?>"><?php echo($row->catName); ?></a></h3> 
+                            </div>
+                            <div class="text">
+                                <p class="buttons">
+                                    <a href="gallery.php?c=<?php echo($row->catid); ?>" class="btn btn-template-transparent-primary">View</a>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- /.box-image -->
 
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-1.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
                     </div>
-                    <!-- /.box-image -->
+                    <?php
+                }
+                ?>
 
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-2.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-3.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-4.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-5.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-6.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-7.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-9.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
-                <div class="col-sm-4">
-                    <div class="box-image">
-                        <div class="image">
-                            <img src="img/portfolio-8.jpg" alt="" class="img-responsive">
-                        </div>
-                        <div class="bg"></div>
-                        <div class="name">
-                            <h3><a href="portfolio-detail.html">Portfolio box-image</a></h3> 
-                        </div>
-                        <div class="text">
-                            <p class="hidden-sm">Pellentesque habitant morbi tristique senectus et netus et malesuada</p>
-                            <p class="buttons">
-                                <a href="portfolio-detail.html" class="btn btn-template-transparent-primary">View</a>
-                                <a href="#" class="btn btn-template-transparent-primary">Website</a>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- /.box-image -->
-                </div>
 
             </div>
 
@@ -412,7 +249,6 @@ _________________________________________________________ -->
 
 
 <?php
-
 include 'webparts/footerheader.php';
 ?>
 
