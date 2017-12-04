@@ -28,41 +28,38 @@ _________________________________________________________ -->
 
         <div class="col-md-3 col-sm-6">
 
-            <h4>Blog</h4>
+            <h4>Ministries</h4>
 
             <div class="blog-entries">
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="#">
-                            <img class="img-responsive" src="img/detailsquare.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="#">Blog post name</a></h5>
-                    </div>
-                </div>
+                <ul class="ul-icons">
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="leprosy.php"> Leprosy Ministry</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="children.php"> Children Ministry</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="homeless.php"> Homeless Ministry</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="hivmin.php"> HIV/Aids Ministry</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="feeding.php"> Feeding Ministry</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-check"></i>
+                        <a href="blankets.php"> Blankets Ministry</a>
+                    </li>
+                  
+                 
+                </ul>
 
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="#">
-                            <img class="img-responsive" src="img/detailsquare.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="#">Blog post name</a></h5>
-                    </div>
-                </div>
-
-                <div class="item same-height-row clearfix">
-                    <div class="image same-height-always">
-                        <a href="#">
-                            <img class="img-responsive" src="img/detailsquare.jpg" alt="">
-                        </a>
-                    </div>
-                    <div class="name same-height-always">
-                        <h5><a href="#">Very very long blog post name</a></h5>
-                    </div>
-                </div>
             </div>
 
             <hr class="hidden-md hidden-lg">
